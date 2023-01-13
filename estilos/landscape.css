@@ -28,7 +28,7 @@ Grandes telas: acima de 1200px
     }
     section#login{
      width: 90vw;
-     position: relative;
+     
     }
     div#imagem{
         width: 30%;
@@ -36,7 +36,6 @@ Grandes telas: acima de 1200px
     }
 
     #formulario{
-        position: absolute;
         top: 2%;
         left: 30%;
     }
